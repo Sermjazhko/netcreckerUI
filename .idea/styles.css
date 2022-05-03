@@ -1,0 +1,36 @@
+
+img {
+    width: 300px;
+    margin: 5% 0% 0% 5%;
+}
+div.style0 {
+    margin: -25% 2% 0% -10%;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 250%;
+    text-align: center;
+    margin: 0;
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+    text-align: center;
+    margin: 0;
+}
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 180%;
+    color: black;
+}
+div.style1 {
+    font-style: normal;
+    font-size: 130%;
+    text-align: right;
+    padding-right: 30%;
+}
+div.style2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 140%;
+    padding: 2% 0% 2% 2%;
+}
